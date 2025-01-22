@@ -64,8 +64,8 @@ Este proyecto demuestra cómo usar `onMount` en Svelte para ejecutar lógica al 
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
-   cd <nombre-del-proyecto>
+   git clone https://github.com/urian121/metodo-onMount-en-Svelte
+   cd metodo-onMount-en-Svelte
    ```
 
 2. Instala las dependencias:
